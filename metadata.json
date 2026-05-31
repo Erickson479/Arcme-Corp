@@ -1,0 +1,6 @@
+{
+  "name": "Business Landing Page",
+  "description": "A modern, professional single-page business landing website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
